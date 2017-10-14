@@ -20,7 +20,7 @@ otherWindow.postMessage(message, targetOrigin, [transfer])
 
 ```
 
-- **otherWindow **
+- **otherWindow**
 
   其他窗口的一个引用，比如子iframe的contentWindow属性、执行window.open返回的窗口对象、或是命名过或索引的window.frames
 
